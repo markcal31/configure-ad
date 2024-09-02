@@ -267,4 +267,4 @@ In this lab I will outline the implementation of on-premises Active Directory wi
 
 ![image](https://github.com/user-attachments/assets/bd8f8875-5ada-4aae-a060-7a9b6f01650f)
 
-Lab complete!
+Lab complete!  Remember to clear your resources once you are done to save your credits!
